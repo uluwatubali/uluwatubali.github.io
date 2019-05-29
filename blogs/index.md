@@ -29,9 +29,13 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
   - Column Space of M: M * v ==> v can be span to all of vecors in M
   - Null space = All the points squeezed to zero point
     - M * x = 0, All of solutions of x are in Null Space
-  
-## Header 2
-## Header 3
++ Projection of vector A on vector B: \lambda inner product of A and unit vector of B, b
+  - (A * B')/ (|| B ||^2)
+
+## PCA: Principal Component Analysis
+  - To find lower dimensional representation of data that retain as much information
+  - Linear dimenstional reduction
+## K-means
 
 - List 1
 - List 2
