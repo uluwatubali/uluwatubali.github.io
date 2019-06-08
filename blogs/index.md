@@ -1,7 +1,19 @@
 # uluwatubali.github.io
 
 Notes
-## Essence of linear algebra
+## KNN
+## Linear Regression
+## Naive Bayes Classifier
+## Decision Tree
+## Logistic Regression
+
+## K-means & PCA
+
+### PCA: Principal Component Analysis
+  - To find lower dimensional representation of data that retain as much information
+  - Linear dimenstional reduction
+  
+### Essence of linear algebra
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
@@ -32,10 +44,6 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 + Projection of vector A on vector B: \lambda inner product of A and unit vector of B, b
   - (A * B')/ (|| B ||^2)
 
-## PCA: Principal Component Analysis
-  - To find lower dimensional representation of data that retain as much information
-  - Linear dimenstional reduction
-## K-means
 
-- List 1
-- List 2
+
+
